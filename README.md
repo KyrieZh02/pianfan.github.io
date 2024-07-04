@@ -1,3 +1,3 @@
-# NaiBa.github.io
+# naiBa.github.io
 
 My Personal Blog via GitHub
